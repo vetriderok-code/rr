@@ -143,15 +143,15 @@
       "isDefault": true
     },
     {
-      "value": "ПВХ-1С",
-      "isDefault": true
-    },
-    {
       "value": "ПВХ-1ИИ",
       "isDefault": true
     },
     {
       "value": "ПВХ-1ИИТ",
+      "isDefault": true
+    },
+    {
+      "value": "ПВХ-1С",
       "isDefault": true
     },
     {
@@ -641,10 +641,6 @@
       "isDefault": true
     },
     {
-      "value": "ОФНБЧ-2.0",
-      "isDefault": true
-    },
-    {
       "value": "ОФБЧ-2Ф",
       "isDefault": true
     },
@@ -689,7 +685,7 @@
       "isDefault": true
     },
     {
-      "value": "120-мм. ОФ мина",
+      "value": "120 мм. ОФ мина",
       "isDefault": true
     },
     {
@@ -999,7 +995,7 @@
       "isDefault": true
     },
     {
-      "value": "УДИВ-ЭД",
+      "value": "УДИВ ЭД",
       "isDefault": true
     },
     {
@@ -1033,9 +1029,9 @@
     {
       "value": "ПИУ-1М",
       "isDefault": true
-    },
+    },  
     {
-      "value": "Модуль FC mimi",
+      "value": "модуль FC mimi",
       "isDefault": true
     },
     {
@@ -1228,6 +1224,20 @@
     },
     {
       "value": "Харьковское",
+      "isDefault": true
+    }
+  ],
+  "batteryType": [
+    {
+      "value": "спаркс",
+      "isDefault": true
+    },
+    {
+      "value": "18500",
+      "isDefault": true
+    },
+    {
+      "value": "21700",
       "isDefault": true
     }
   ]

@@ -1226,5 +1226,19 @@
       "value": "Харьковское",
       "isDefault": true
     }
+  ],
+  "batteryType": [
+    {
+      "value": "спаркс",
+      "isDefault": true
+    },
+    {
+      "value": "18500",
+      "isDefault": true
+    },
+    {
+      "value": "21700",
+      "isDefault": true
+    }
   ]
 }
