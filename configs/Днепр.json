@@ -1229,16 +1229,24 @@
   ],
   "batteryType": [
     {
-      "value": "спаркс",
-      "isDefault": true
-    },
-    {
       "value": "18500",
       "isDefault": true
     },
     {
-      "value": "21700",
-      "isDefault": true
+      "value": "АКБ бумеранг",
+      "isDefault": false
+    },
+    {
+      "value": "АКБ 1",
+      "isDefault": false
+    },
+    {
+      "value": "АКБ 2",
+      "isDefault": false
+    },
+    {
+      "value": "АКБ 3",
+      "isDefault": false
     }
   ]
 }
