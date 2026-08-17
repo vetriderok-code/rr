@@ -1,7 +1,13 @@
 {
-  "latest_version": "v6.0.20",
-  "latest_apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.20/app-release-v6.0.20.apk",
+  "latest_version": "v1.0.1",
+  "latest_apk_url": "https://github.com/vetriderok-code/rr/releases/download/v1.0.1/app-release-v1.0.1.apk",
   "releases": [
+    {
+      "version": "v1.0.1",
+      "apk_url": "https://github.com/vetriderok-code/rr/releases/download/v1.0.1/app-release-v1.0.1.apk",
+      "description": "Днепр Р: только конфиг Днепр; аккумуляторы в п.19; без выбора полного/короткого отчёта; без выбора конфига в меню",
+      "date": "2026-08-17"
+    },
     {
       "version": "v6.0.20",
       "apk_url": "https://github.com/Sitko163/rr/releases/download/v6.0.20/app-release-v6.0.20.apk",
