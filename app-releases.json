@@ -1,6 +1,1 @@
-{
-    "latest_apk_url":  "https://github.com/vetriderok-code/rr/releases/download/app-v1.0.2-dnepr/app-dnepr-r-v1.0.2-debug.apk",
-    "description":  "Автообновление из настроек + актуальный Днепр.json (sparksType)",
-    "versionCode":  102,
-    "latest_version":  "1.0.2-dnepr"
-}
+{"latest_version":"1.0.3-dnepr","versionCode":103,"latest_apk_url":"https://github.com/vetriderok-code/rr/releases/download/app-v1.0.3-dnepr/app-dnepr-r-v1.0.3-debug.apk","description":"Синхронизация Днепр.json с GitHub из Настроек"}
